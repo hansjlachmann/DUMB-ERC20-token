@@ -1,0 +1,1 @@
+forge script ./script/deployment.s.sol:TokenDeployment --rpc-url sepolia --account vanitykey --broadcast --verify
